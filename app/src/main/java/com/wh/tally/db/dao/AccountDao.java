@@ -36,4 +36,10 @@ public interface AccountDao {
     @Query("select * from account where beizhu like '%' || :searchContent || '%' or typename like '%' || :searchContent || '%'")
     List<AccountBean> getAccountsByBeizhuOrTypename(String searchContent);
 
+    // 获取本月所有收支记录
+    @Query("select * from account where year =:year and month = :month")
+    List<AccountBean> getInAndOutOneMonth(int year, int month);
+
+    @Query("select distinct(year) from account order by year asc")
+    List<Integer> getYearList();
 }

@@ -7,16 +7,21 @@
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/drawable/main_morebtn_bg.xml" value="0.2005" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/drawable/main_recordbtn_bg.xml" value="0.2005" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/activity_about.xml" value="0.33958333333333335" />
+        <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/activity_history.xml" value="0.29739583333333336" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/activity_month_chart.xml" value="0.146403242147923" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/activity_outcome_fragment.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/activity_record.xml" value="0.3229166666666667" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/activity_search.xml" value="0.3333333333333333" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/dialog_beizhu.xml" value="0.3319746376811594" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/dialog_budget.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/dialog_calendar.xml" value="0.29739583333333336" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/dialog_calender.xml" value="0.3333333333333333" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/dialog_more.xml" value="0.3333333333333333" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/dialog_time.xml" value="0.3319746376811594" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/fragment_outcome.xml" value="0.1651469098277609" />
+        <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/item_dialogcal_gv.xml" value="0.29739583333333336" />
+        <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/item_dialogcal_hsv.xml" value="0.29739583333333336" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/item_mainlv.xml" value="0.3229166666666667" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/item_mainlv_top.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/Tally/app/src/main/res/layout/item_recordfrag_gv.xml" value="0.3333333333333333" />
